@@ -7,7 +7,7 @@
 
 <div align="left">
 
-<a href="https://app.daily.dev/prionto"><img src="https://api.daily.dev/devcards/df2d5c9fa7ce4e579ee972f740144dec.png?r=y3h" width="25%" align="right" alt="Prionto Adbullah's Dev Card"/></a>
+
 
 A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I am working as a software engineer at Buyonia Limited, Barking, United Kingdom, 🇬🇧👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web and mobile app 🚀. 
 
@@ -115,7 +115,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
 
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://prionto-71.web.app/)
+<!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://prionto-71.web.app/) -->
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=prionto71@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/prionto-abdullah/)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://prionto71.medium.com/)
