@@ -102,11 +102,11 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 <br /> 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=azijul962&theme=onestar&no-frame=true" alt="azijul962 Profile Trophies" />
   </a>
-</div>
+</div> -->
 
 
 <br /> 
