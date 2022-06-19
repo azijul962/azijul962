@@ -1,23 +1,14 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> Hello, I'm Prionto Abdullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" > ! </h1>
-
-<h3 align="center">I'm an enthusiastic and passionate Software Developer from Bangladesh ❤</h3>  
-
-
-<div align="left">
 
 
 
-A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I am working as a software engineer at Buyonia Limited, Barking, United Kingdom, 🇬🇧👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web and mobile app 🚀. 
-
-  <br />
   
-![](https://visitor-badge.glitch.me/badge?page_id=PriontoAbdullah.PriontoAbdullah)
-![age](https://img.shields.io/badge/age-25-blueviolet)
-![focus](https://img.shields.io/badge/focus-FullStack-critical)
+![](https://visitor-badge.glitch.me/badge?page_id=azijul962.azijul962)
+![age](https://img.shields.io/badge/age-26-blueviolet)
+![focus](https://img.shields.io/badge/focus-Front-end-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
-![projects](https://img.shields.io/badge/projects-38-important)
+![projects](https://img.shields.io/badge/projects-04-important)
 
   <br />
 
