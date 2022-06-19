@@ -6,6 +6,26 @@
 ![projects](https://img.shields.io/badge/projects-04-important)
 
   <br />
+  
+  
+  ## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=azijul962&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=azijul962&theme=radical" width="45%" >
+
+
+<br /> 
+
+ <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=azijul962&theme=onestar&no-frame=true" alt="azijul962 Profile Trophies" />
+  </a>
+</div> 
+
+
+<br /> 
+
+<div align="center">
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I’m currently learning TypeScript, GraphQL and React-Native.
@@ -80,24 +100,7 @@
   
 <br /> 
 
-## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=azijul962&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=azijul962&theme=radical" width="45%" >
-
-
-<br /> 
-
- <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=azijul962&theme=onestar&no-frame=true" alt="azijul962 Profile Trophies" />
-  </a>
-</div> 
-
-
-<br /> 
-
-<div align="center">
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
 
