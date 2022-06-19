@@ -1,8 +1,3 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
-
-
-
   
 ![](https://visitor-badge.glitch.me/badge?page_id=azijul962.azijul962)
 ![age](https://img.shields.io/badge/age-26-blueviolet)
