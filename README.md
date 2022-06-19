@@ -25,10 +25,8 @@
 
 <br /> 
 
-<div align="center">
+<div align="left">
   
-  <br />
-
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I’m currently learning TypeScript, GraphQL and React-Native.
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
