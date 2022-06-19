@@ -6,7 +6,7 @@
   
 ![](https://visitor-badge.glitch.me/badge?page_id=azijul962.azijul962)
 ![age](https://img.shields.io/badge/age-26-blueviolet)
-![focus](https://img.shields.io/badge/focus-Front-end-critical)
+![focus](https://img.shields.io/badge/focus-FullStake-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
 ![projects](https://img.shields.io/badge/projects-04-important)
 
